@@ -2,13 +2,22 @@ import json
 from pathlib import Path
 import pytest
 
-from logic import (
-    convert_quantity,
-    is_dish_available,
-    evaluate_all_dishes,
-    deduct_dish_ingredients,
-    get_stock_item_by_name,
-)
+try:
+    from backend.logic import (
+        convert_quantity,
+        is_dish_available,
+        evaluate_all_dishes,
+        deduct_dish_ingredients,
+        get_stock_item_by_name,
+    )
+except ImportError:
+    from logic import (
+        convert_quantity,
+        is_dish_available,
+        evaluate_all_dishes,
+        deduct_dish_ingredients,
+        get_stock_item_by_name,
+    )
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
