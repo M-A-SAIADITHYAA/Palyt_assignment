@@ -1,0 +1,193 @@
+[
+  {
+    "dish": "Paneer Butter Masala",
+    "price": 320,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Tomatoes",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Onions",
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "Butter",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Cashews",
+        "qty": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Garam Masala",
+        "qty": 5,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "dish": "Shahi Paneer Korma",
+    "price": 360,
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "Cashews",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Cream",
+        "qty": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "Onions",
+        "qty": 90,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "qty": 20,
+        "unit": "ml"
+      },
+      {
+        "name": "Garam Masala",
+        "qty": 6,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "dish": "Chicken Biryani",
+    "price": 420,
+    "ingredients": [
+      {
+        "name": "Chicken",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "Basmati Rice",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "Yoghurt",
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "name": "Onions",
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "qty": 30,
+        "unit": "ml"
+      },
+      {
+        "name": "Mint",
+        "qty": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Garam Masala",
+        "qty": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "dish": "Veg Pulao",
+    "price": 240,
+    "ingredients": [
+      {
+        "name": "Basmati Rice",
+        "qty": 160,
+        "unit": "g"
+      },
+      {
+        "name": "Onions",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "qty": 25,
+        "unit": "ml"
+      },
+      {
+        "name": "Cumin Seeds",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Mint",
+        "qty": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Green Peas",
+        "qty": 50,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "dish": "Jeera Rice",
+    "price": 180,
+    "ingredients": [
+      {
+        "name": "Basmati Rice",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Ghee",
+        "qty": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "Cumin Seeds",
+        "qty": 5,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "dish": "Butter Naan",
+    "price": 70,
+    "ingredients": [
+      {
+        "name": "Butter",
+        "qty": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Refined Flour",
+        "qty": 90,
+        "unit": "g"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Paneer",
+    "qty": 1.4,
+    "unit": "kg",
+    "par": 0.5
+  },
+  {
+    "name": "Chicken",
+    "qty": 0,
+    "unit": "kg",
+    "par": 1
+  },
+  {
+    "name": "Cashews",
+    "qty": 300,
+    "unit": "g",
+    "par": 250
+  },
+  {
+    "name": "Green Peas",
+    "qty": 30,
+    "unit": "g",
+    "par": 10
+  },
+  {
+    "name": "Cream",
+    "qty": 900,
+    "unit": "ml",
+    "par": 300
+  },
+  {
+    "name": "Mint",
+    "qty": 60,
+    "unit": "g",
+    "par": 40
+  },
+  {
+    "name": "Onions",
+    "qty": 8,
+    "unit": "kg",
+    "par": 2
+  },
+  {
+    "name": "Tomatoes",
+    "qty": 6,
+    "unit": "kg",
+    "par": 1.5
+  },
+  {
+    "name": "Butter",
+    "qty": 900,
+    "unit": "g",
+    "par": 200
+  },
+  {
+    "name": "Basmati Rice",
+    "qty": 12,
+    "unit": "kg",
+    "par": 3
+  },
+  {
+    "name": "Yoghurt",
+    "qty": 1.5,
+    "unit": "kg",
+    "par": 0.5
+  },
+  {
+    "name": "Ghee",
+    "qty": 800,
+    "unit": "ml",
+    "par": 200
+  },
+  {
+    "name": "Garam Masala",
+    "qty": 250,
+    "unit": "g",
+    "par": 50
+  },
+  {
+    "name": "Bay Leaves",
+    "qty": 40,
+    "unit": "g",
+    "par": 10
+  },
+  {
+    "name": "Saffron",
+    "qty": 8,
+    "unit": "g",
+    "par": 5
+  }
+]
